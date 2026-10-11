@@ -1,5 +1,7 @@
 ## Hi there 👋
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4MtA-NQihxf7xkBu2iJ2Gqnptq5dc1kZ5Op7mH-F3A&s=10" alt="Jochua" style="width:500px;height:600px;">
+<p align="center">
+  <img src="jotchua.svg" width="250" alt="Jotchua dancing">
+</p>
 
 <!--
 **GregTheEgg-program/GregTheEgg-program** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
