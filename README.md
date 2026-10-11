@@ -1,8 +1,7 @@
 <h2> Hi, I am Gregory. </h2>
 
-
-
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4MtA-NQihxf7xkBu2iJ2Gqnptq5dc1kZ5Op7mH-F3A&s=10" alt="Real image of me" style="width:1000px;height:600px;"> Real Image of Me
+<p style="text-align: center;"> Real image of me </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4MtA-NQihxf7xkBu2iJ2Gqnptq5dc1kZ5Op7mH-F3A&s=10" alt="Real image of me" style="width:1000px;height:600px;">
 
 <!--
 **GregTheEgg-program/GregTheEgg-program** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
