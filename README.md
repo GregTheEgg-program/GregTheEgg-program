@@ -1,6 +1,9 @@
 <h2> Hi, I am Gregory. </h2>
+
 [![My LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregory-sherris-computerscience/)
+
 <p style="text-align: center;"> Real image of me </p>
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4MtA-NQihxf7xkBu2iJ2Gqnptq5dc1kZ5Op7mH-F3A&s=10" alt="Real image of me" style="width:1000px;height:600px;">
 
 <!--
