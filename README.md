@@ -1,6 +1,7 @@
 <h2>Hi, I am Greg!</h2>
 <img src="Assets/jotchua.gif" width="175" align="right" alt="Jotchua">
-<p><em>Real Time Interactive Simulation student at Digipen Institute of Technology</em></p>
+<h4><em>Real Time Interactive Simulation student at Digipen Institute of Technology</em></h4>
+<span><h6><sup>Gaps in my Github History is caused by me using perforce for certain projects</sup></em></h6>
 
 ### Socials!
 
