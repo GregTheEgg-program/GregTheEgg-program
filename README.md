@@ -9,8 +9,8 @@
 [![My Github, well you're currently on it)](https://img.shields.io/github/followers/GregTheEgg-program?label=follow&style=social)](https://github.com/GregTheEgg-program)
 
 ### More about me! <img src="Assets/death.gif" width="30" align="bottom" alt="Isaac">
-- I aspire to be a game developer, actively working with some part of the process of game development to achieve that.
-- As of 2026, I am currently looking for internships!
+- I am a game developer looking to keep developing games and possibly learn more about other areas of programming!
+- As of September 2026, I am currently looking for internships!
 - I am interested in Cyber Security.
 - God fearing american.
 
