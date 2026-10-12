@@ -15,7 +15,7 @@
 - God fearing american.
 
 ### Learn more about my Projects!
-[Projects](Projects.md)
+[![Projects](Assets/projectsTab.png)](Projects.md)
 
 <p align="center">
   <h1 align="center">$\color{red}{\textsf{\textbf{Real image of me}}}$</h1>
