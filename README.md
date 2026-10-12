@@ -14,7 +14,7 @@
 - I am interested in Cyber Security.
 - God fearing american.
 
-### Learn more about my Projects!
+### Learn more about what I've done!
 <a href="Projects.md">
   <img src="Assets/projectsTab.png" alt="Projects" width="150">
 </a>
