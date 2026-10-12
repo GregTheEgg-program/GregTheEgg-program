@@ -15,7 +15,9 @@
 - God fearing american.
 
 ### Learn more about my Projects!
-[![Projects](Assets/projectsTab.png)](Projects.md)
+<a href="Projects.md">
+  <img src="Assets/projectsTab.png" alt="Projects" width="150">
+</a>
 
 <p align="center">
   <h1 align="center">$\color{red}{\textsf{\textbf{Real image of me}}}$</h1>
