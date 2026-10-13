@@ -6,7 +6,7 @@
 ### Socials!
 
 [![My LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregory-sherris-computerscience/)
-[![Website](https://img.shields.io/badge/My%20Website-8A2BE2)](gregorysherris.dev)
+[![Website](https://img.shields.io/badge/My%20Website-8A2BE2)](https://gregorysherris.dev/)
 [![My Github, well you're currently on it)](https://img.shields.io/github/followers/GregTheEgg-program?label=follow&style=social)](https://github.com/GregTheEgg-program)
 
 ### More about me! <img src="Assets/death.gif" width="30" align="bottom" alt="Isaac">
