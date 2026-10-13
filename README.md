@@ -6,6 +6,7 @@
 ### Socials!
 
 [![My LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregory-sherris-computerscience/)
+[![Website](https://img.shields.io/badge/My%20Website-8A2BE2)](gregorysherris.dev)
 [![My Github, well you're currently on it)](https://img.shields.io/github/followers/GregTheEgg-program?label=follow&style=social)](https://github.com/GregTheEgg-program)
 
 ### More about me! <img src="Assets/death.gif" width="30" align="bottom" alt="Isaac">
@@ -13,11 +14,6 @@
 - As of September 2026, I am currently looking for internships!
 - I am interested in Cyber Security.
 - God fearing american.
-
-### Learn more about what I've done!
-<a href="Projects.md">
-  <img src="Assets/projectsTab.png" alt="Projects" width="150">
-</a>
 
 <p align="center">
   <h1 align="center">$\color{red}{\textsf{\textbf{Real image of me}}}$</h1>
