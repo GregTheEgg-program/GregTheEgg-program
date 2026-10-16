@@ -2,7 +2,8 @@
 
 **Computer Science (RTIS) Student at DigiPen Institute of Technology | Software Engineering | C++ • C# • C | Game Development**
 
-<img src="Assets/jotchua.gif" width="175" align="right" alt="Jotchua">
+<!-- he will arise someday --!>
+<!-- <img src="Assets/jotchua.gif" width="175" align="right" alt="Jotchua"> !-->
 
 <span><h6><sup>Gaps in my Github History is caused by me using perforce for certain projects</sup></em></h6>
 
