@@ -1,9 +1,10 @@
 # Hi, I'm Gregory Sherris! 👋
 
 **Computer Science (RTIS) Student at DigiPen Institute of Technology | Software Engineering | C++ • C# • C | Game Development**
-<span><h6><sup>Gaps in my Github History is caused by me using perforce for certain projects</sup></em></h6>
 
 <img src="Assets/jotchua.gif" width="175" align="right" alt="Jotchua">
+
+<span><h6><sup>Gaps in my Github History is caused by me using perforce for certain projects</sup></em></h6>
 
 [![My LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregory-sherris-computerscience/)
 [![Website](https://img.shields.io/badge/My%20Website-8A2BE2)](https://gregorysherris.dev/)
