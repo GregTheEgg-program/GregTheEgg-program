@@ -1,6 +1,6 @@
 # Hi, I'm Gregory Sherris! 👋
 
-**Computer Science (RTIS) Student at DigiPen Institute of Technology | Software Engineering | C++ • C# • C | Game Development**
+#### Computer Science (RTIS) Student at DigiPen Institute of Technology | Software Engineering | C++ • C# • C | Game Development
 
 <!-- he will arise someday --!>
 <!-- <img src="Assets/jotchua.gif" width="175" align="right" alt="Jotchua"> !-->
@@ -10,6 +10,8 @@
 [![My LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregory-sherris-computerscience/)
 [![Website](https://img.shields.io/badge/My%20Website-8A2BE2)](https://gregorysherris.dev/)
 [![My Github, well you're currently on it)](https://img.shields.io/github/followers/GregTheEgg-program?label=follow&style=social)](https://github.com/GregTheEgg-program)
+
+##
 
 🎓 **B.S. in Computer Science in Real-Time Interactive Simulation**, expected May 2028  
 📍 **Redmond, WA / Boston, MA**  
